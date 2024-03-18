@@ -1,0 +1,12 @@
+{
+  "name": "my-express-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple-app.js",
+  "scripts": {
+    "start": "nodemon simple-app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
